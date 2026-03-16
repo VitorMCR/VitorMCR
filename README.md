@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 - 🎓 Técnico em Análise e Desenvolvimento de Sistemas, formado na ETEC Polivalente.
-- 📚 Atualmente Cursando **ADS** *(Nível Tecnólogo)* na FATEC Americana | 4° Sem.
+- 📚 Atualmente Cursando **ADS** *(Nível Tecnólogo)* na FATEC Americana | 5° Sem.
 - 🎨 *Amante de Programação, Música e Edição de Vídeo.*
 
 ### Conhecimentos
